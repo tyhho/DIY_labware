@@ -1,3 +1,4 @@
+
 # 3D Printable DIY Labwares
 
 This is a repository for some DIY labwares which I have created to facilitate my experiments.
@@ -48,7 +49,7 @@ Files:
 
 Recommended print setting: 20% infill, Triangle, Brim. Support (everywhere) is needed for both files.
 
-##  50 mL Tube Vertical-to-horizontal Roller Adaptor
+##  Bio-Rad DNA Gel Comb Racks
 
 <img src="https://github.com/tyhho/DIY_labware/blob/master/diy_labware_images/RacksForGelCombs.jpg" alt="Bio-Rad DNA gel comb racks" width="500">
 

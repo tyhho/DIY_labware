@@ -16,7 +16,7 @@ Please open the folder ["aspirator_stand"](https://github.com/tyhho/DIY_labware/
 
 <img src="https://github.com/tyhho/DIY_labware/blob/master/diy_labware_images/ColonyPickingAssistant.jpg" alt="Colony Picking Assistant Cover" width="500">
 
-A rack for tip rack insert to ease the process of manual colony picking. Please refer to its wiki page for a full description and the recommended instructions.
+A rack for tip rack insert to ease the process of manual colony picking. Please refer to its [wiki page](https://github.com/tyhho/DIY_labware/wiki/Colony-Picking-Assistant-(CFA)) for a full description and the recommended instructions.
 
 Files:
 * Colony Picking Assistant_200 uL tips & flat-bottom plates.stl
@@ -36,7 +36,7 @@ Recommended print setting: 20% infill, Triangle, Brim. Invert the design and pri
 
 ##  50 mL Tube Vertical-to-horizontal Roller Adaptor
 
-<img src="https://github.com/tyhho/DIY_labware/blob/master/diy_labware_images/UniversalTubeAdaptorsForMegafuge.jpg" alt="Universal Tube to 50 mL Tube Adaptors" width="500">
+<img src="https://github.com/tyhho/DIY_labware/blob/master/diy_labware_images/50mLTubeAdpatorsForHorizonalRotation.jpg" alt="50 mL Tube Adaptors For Horizontal Rotation" width="500">
 
 An adaptor to allow 50 mL Falcon tubes to be rotated horizontally and along the axis on a STARLAB Rotator Mixer (N2400-5000 + N2400-5103 / N2400-5104). In our lab we perform primary and secondary antibody incubation of Western Blot membranes inside the 50 mL tubes. This practice allows us to cut down the volume of the diluted antibody from 25+ mL (on a rocker) to 10 mL, and to save reagents over time.
 
@@ -50,7 +50,7 @@ Recommended print setting: 20% infill, Triangle, Brim. Support (everywhere) is n
 
 ##  50 mL Tube Vertical-to-horizontal Roller Adaptor
 
-<img src="https://github.com/tyhho/DIY_labware/blob/master/diy_labware_images/RacksForGelCombs.jpg.jpg" alt="Bio-Rad DNA gel comb racks" width="500">
+<img src="https://github.com/tyhho/DIY_labware/blob/master/diy_labware_images/RacksForGelCombs.jpg" alt="Bio-Rad DNA gel comb racks" width="500">
 
 A rack to organize Bio-Rad DNA gel combs. This was designed to primarily allow the combs to air dry after wash. Additional benefits include creating a more organized gel running space and avoiding damaging combs when they stack on each other.
 

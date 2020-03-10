@@ -68,3 +68,6 @@ I thank Dr. Logan Mackay (Mass Spectrometry Facility, University of Edinburgh)  
 
 ## Questions/Issues/Suggestions
 Please contact me through email since I do not actively or passively monitor my Github. Thank you.
+
+## License
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
